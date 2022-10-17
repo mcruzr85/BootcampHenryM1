@@ -1,0 +1,14 @@
+{
+    "name": "henry-challenge",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "test": "jest --verbose",
+      "grade": "jest --useStderr --json --outputFile=./tests/result.json"
+    },
+    "devDependencies": {
+      "jest": "^27.5.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
